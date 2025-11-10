@@ -1,0 +1,8 @@
+fecha,tipo,codigo,nombre,cantidad,observacion
+2025-11-09 23:21:15,Salida,A003,Algo,-20,Actualización manual
+2025-11-09 23:23:59,Ingreso,A004,Limones,30,Nuevo producto registrado
+2025-11-09 23:24:16,Ingreso,A004,Limones,30,Actualización manual
+2025-11-09 23:24:29,Venta,A002,Remo,-20,Venta registrada
+2025-11-09 23:25:38,Venta,A002,Remo,-9,Venta registrada
+2025-11-09 23:29:50,Ingreso,A001,Pan,10,Actualización manual
+2025-11-09 23:30:02,Salida,B042,nose,-4,Actualización manual
