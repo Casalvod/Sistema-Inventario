@@ -1,1 +1,1 @@
-Aqui pueden ver el codigo del sistema de inventario para el seminario
+Aqui pueden ver el codigo del sistema de inventario para el seminario, en la carpeta seminario esta el codigo y los 2 csv que genera el del inventario y uno de los movimientos que hace tipo ingreso o venta de un producto
